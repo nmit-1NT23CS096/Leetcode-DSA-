@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1021-remove-outermost-parentheses) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1021-remove-outermost-parentheses) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1021-remove-outermost-parentheses) |
