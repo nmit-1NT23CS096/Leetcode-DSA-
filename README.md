@@ -53,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0844-backspace-string-compare) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
