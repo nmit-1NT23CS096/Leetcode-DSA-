@@ -57,5 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
