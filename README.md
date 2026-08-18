@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
