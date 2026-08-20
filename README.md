@@ -93,15 +93,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
