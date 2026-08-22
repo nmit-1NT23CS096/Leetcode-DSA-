@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
