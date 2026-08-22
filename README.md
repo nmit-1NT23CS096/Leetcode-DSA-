@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0032-longest-valid-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
