@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0704-binary-search) |
 | [1052-grumpy-bookstore-owner](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
