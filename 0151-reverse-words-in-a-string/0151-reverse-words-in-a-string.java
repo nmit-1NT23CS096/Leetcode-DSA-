@@ -1,22 +1,26 @@
 import java.util.*;
 class Solution {
     public String reverseWords(String s) {
-        List<String> words = new ArrayList<>();
-        StringBuilder word = new StringBuilder();  
-
-        for(int i=0; i<s.length(); i++){
-            if(s.charAt(i) != ' '){
-                word.append(s.charAt(i));
-            }
-            else if( word.length() >0){
-                words.add(word.toString());
-                word.setLength(0);
-            }
+       StringBuilder words = new StringBuilder();
+       int n = s.length();
+       int i = n-1;
+       while(i>=0){
+        while( i>=0 && s.charAt(i)==' '){
+            i--;
         }
-        if(word.length()>0){
-            words.add(word.toString());
+        if(i<0){
+            break;
         }
-        Collections.reverse(words);
-        return String.join(" ",words);
+        int end = i;
+        while( i>=0 && s.charAt(i)!=' '){
+            i--;
+        }
+        String word = s.substring(i+1, end+1);
+        if(words.length() > 0){
+            words.append(" ");
+        }
+        words.append(word);
+       }
+       return words.toString();
     }
 }
