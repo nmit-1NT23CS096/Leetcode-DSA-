@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0148-sort-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0162-find-peak-element) |
