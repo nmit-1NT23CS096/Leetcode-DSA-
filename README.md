@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0875-koko-eating-bananas) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0875-koko-eating-bananas) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
