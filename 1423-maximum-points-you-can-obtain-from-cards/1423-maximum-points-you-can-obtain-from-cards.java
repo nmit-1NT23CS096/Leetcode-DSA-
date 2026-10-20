@@ -1,20 +1,18 @@
 class Solution {
-    public int maxScore(int[] arr, int k) {
-        int n = arr.length;
-        int sum = 0;
+    public int maxScore(int[] a, int k) {
+        int n = a.length;
+        int r = n-1;
+        int cursum = 0;
         for(int i=0; i<k; i++){
-            sum += arr[i];
+            cursum += a[i];
         }
-        int right = n-1;
-        int maxSum = sum;
-        for(int left = k-1;left>=0;left--){
-            sum += arr[right];
-            sum -= arr[left];
-            maxSum = Math.max(maxSum,sum);
-            right--;
+        int mxsum = cursum;
+        for(int l = k-1; l>=0; l--){
+            cursum += a[r];
+            cursum -= a[l];
+            mxsum = Math.max(cursum,mxsum);
+            r--;
         }
-        return maxSum;
-
-
+        return mxsum;
     }
 }
