@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0162-find-peak-element) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0231-power-of-two) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
