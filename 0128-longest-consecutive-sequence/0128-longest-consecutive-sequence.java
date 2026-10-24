@@ -13,9 +13,9 @@ class Solution {
 
         int longest = 0;
 
-        // Loop over unique elements in the set instead of nums
+       
         for (int num : set) {
-            // Only start counting if 'num' is the beginning of a sequence
+            
             if (!set.contains(num - 1)) {
                 int cnt = 1;
                 int next = num + 1;
