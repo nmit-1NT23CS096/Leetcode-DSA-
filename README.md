@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/0231-power-of-two) |
+| [1903-largest-odd-number-in-string](https://github.com/nmit-1NT23CS096/Leetcode-DSA-/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
